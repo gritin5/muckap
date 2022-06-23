@@ -21,6 +21,62 @@
 .header__list{
     height: 100%;
 }
+a.boton1{
+    font-size: 12px;
+    background-color: var(--cl-red);
+    width: 100px;
+    height: 40px;
+
+}
+a.boton2{
+    font-size: 12px;
+    background-color: var(--cl-orange);
+    width: 100px;
+    height: 40px;
+}
+a.boton3{
+    font-size: 12px;
+    background-color: var(--cl-red);
+    width: 100px;
+    height: 40px;
+}
+a.boton4{
+    font-size: 12px;
+    background-color: var(--cl-orange);
+    width: 100px;
+    height: 40px;
+}
+a.boton5{
+    font-size: 12px;
+    background-color: var(--cl-red);
+    width: 100px;
+    height: 40px;
+}
+a.boton6{
+    font-size: 12px;
+    background-color: var(--cl-orange);
+    width: 100px;
+    height: 40px;
+}
+a.boton7{
+    font-size: 12px;
+    background-color: var(--cl-red);
+    width: 100px;
+    height: 40px;
+}
+a.boton8{
+    font-size: 12px;
+    background-color: var(--cl-orange);
+    width: 100px;
+    height: 40px;
+}
+a.boton9{
+    font-size: 12px;
+    background-color: var(--cl-red);
+    width: 100px;
+    height: 40px;
+}
+
 
 .header__item{
     background-color: var(--cl-white);
